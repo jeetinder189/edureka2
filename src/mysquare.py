@@ -6,3 +6,4 @@ def my_square(x):
 
 print(my_square(5))
 print(my_square(50))
+print(my_square(255))
